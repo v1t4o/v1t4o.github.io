@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>blog do v1t4o</title>
+    <link>https://v1t4o.github.io</link>
+    <description>artigos sem regularidade alguma sobre assuntos tech</description>
+    <language>en</language>
+    <lastBuildDate>Thu, 30 Apr 2026 01:52:05 +0000</lastBuildDate>
+    <atom:link href="https://v1t4o.github.io/rss.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>[Resenha] Entendendo Algoritmos: Um guia ilustrado para programadores e outros curiosos - Aditya Y. Bhargava</title>
+      <link>https://v1t4o.github.io/articles/resenha-entendendo-algoritmos-um-guia-ilustrado-para-programadores-e-outros-curiosos-aditya-y-bhargava.html</link>
+      <description>Fala minha tropa, fazer uma resenha rápida aqui de uma leitura que tive recentemente, e também pra...</description>
+      <pubDate>Fri, 04 Jul 2025 01:05:32 +0000</pubDate>
+      <guid isPermaLink="true">https://v1t4o.github.io/articles/resenha-entendendo-algoritmos-um-guia-ilustrado-para-programadores-e-outros-curiosos-aditya-y-bhargava.html</guid>
+      <category>webdev</category>
+      <category>programming</category>
+      <category>algorithms</category>
+      <category>leituras</category>
+    </item>
+    <item>
+      <title>[Resenha] Programando em Go - Caio Filipini</title>
+      <link>https://v1t4o.github.io/articles/resenha-programando-em-go-caio-filipini.html</link>
+      <description>Terminei recentemente o livro “Programando em Go” do Caio Filipini, e gostaria de comentar sobre...</description>
+      <pubDate>Thu, 08 May 2025 14:54:35 +0000</pubDate>
+      <guid isPermaLink="true">https://v1t4o.github.io/articles/resenha-programando-em-go-caio-filipini.html</guid>
+      <category>programming</category>
+      <category>go</category>
+      <category>books</category>
+      <category>braziliandevs</category>
+    </item>
+    <item>
+      <title>Minha experiência na 2ª rinha de backend com Ruby + Sinatra</title>
+      <link>https://v1t4o.github.io/articles/minha-experiencia-na-2-rinha-de-backend-com-ruby-sinatra.html</link>
+      <description>Introdução   Fala minha tropa, hoje venho aqui contar um pouco da minha experência na 2ª...</description>
+      <pubDate>Tue, 27 Feb 2024 15:08:09 +0000</pubDate>
+      <guid isPermaLink="true">https://v1t4o.github.io/articles/minha-experiencia-na-2-rinha-de-backend-com-ruby-sinatra.html</guid>
+      <category>ruby</category>
+      <category>sinatra</category>
+      <category>rinhadebackend</category>
+      <category>braziliandevs</category>
+    </item>
+    <item>
+      <title>Usando a gem Foreman</title>
+      <link>https://v1t4o.github.io/articles/usando-a-gem-foreman.html</link>
+      <description>Fala minha tropa, suavidade? No último artiguinho, no fim dele eu comentei sobre a gem Foreman, pra...</description>
+      <pubDate>Sun, 23 Jul 2023 15:02:45 +0000</pubDate>
+      <guid isPermaLink="true">https://v1t4o.github.io/articles/usando-a-gem-foreman.html</guid>
+      <category>braziliandevs</category>
+      <category>ruby</category>
+      <category>rails</category>
+      <category>tutorial</category>
+    </item>
+    <item>
+      <title>Aplicações Ruby On Rails com RabbitMQ: uma breve discussão sobre monolitos, microsserviços e mensageria</title>
+      <link>https://v1t4o.github.io/articles/aplicacoes-ruby-on-rails-com-rabbitmq-uma-breve-discussao-sobre-monolitos-microsservicos-e-mensageria.html</link>
+      <description>Fala tropinha, tudo certo? Bom, mês passado fiz uma palestrinha técnica na firma, e me propus a falar...</description>
+      <pubDate>Sat, 22 Jul 2023 00:01:59 +0000</pubDate>
+      <guid isPermaLink="true">https://v1t4o.github.io/articles/aplicacoes-ruby-on-rails-com-rabbitmq-uma-breve-discussao-sobre-monolitos-microsservicos-e-mensageria.html</guid>
+      <category>braziliandevs</category>
+      <category>ruby</category>
+      <category>rails</category>
+      <category>microservices</category>
+    </item>
+    <item>
+      <title>Implementação do Flipper para controle de features</title>
+      <link>https://v1t4o.github.io/articles/implementacao-do-flipper-para-controle-de-features.html</link>
+      <description>Fala tropinha, hoje venho trazer uma gemzinha braba também, que pode ajudar no dia-a-dia. A gem em...</description>
+      <pubDate>Fri, 02 Jun 2023 15:19:42 +0000</pubDate>
+      <guid isPermaLink="true">https://v1t4o.github.io/articles/implementacao-do-flipper-para-controle-de-features.html</guid>
+      <category>braziliandevs</category>
+      <category>ruby</category>
+      <category>rails</category>
+      <category>flipper</category>
+    </item>
+    <item>
+      <title>Usando a gem httplog para uma melhor análise dos logs</title>
+      <link>https://v1t4o.github.io/articles/usando-a-gem-httplog-para-uma-melhor-analise-dos-logs.html</link>
+      <description>Fala tropinha, tudo bom? Venho trazer nesse artiguinho minúsculo, um pouquinho sobre uma gem que...</description>
+      <pubDate>Wed, 19 Apr 2023 12:01:16 +0000</pubDate>
+      <guid isPermaLink="true">https://v1t4o.github.io/articles/usando-a-gem-httplog-para-uma-melhor-analise-dos-logs.html</guid>
+      <category>braziliandevs</category>
+      <category>ruby</category>
+      <category>rails</category>
+      <category>gem</category>
+    </item>
+    <item>
+      <title>Uso do Portainer para administração de contêineres do Docker</title>
+      <link>https://v1t4o.github.io/articles/uso-do-portainer-para-administracao-de-conteineres-do-docker.html</link>
+      <description>Fala minha tropa, tranquilidade? Nesse primeiro artigo aqui na dev.to eu quero falar um pouquinho...</description>
+      <pubDate>Fri, 17 Mar 2023 14:07:51 +0000</pubDate>
+      <guid isPermaLink="true">https://v1t4o.github.io/articles/uso-do-portainer-para-administracao-de-conteineres-do-docker.html</guid>
+      <category>docker</category>
+      <category>portainer</category>
+      <category>braziliandevs</category>
+    </item>
+  </channel>
+</rss>

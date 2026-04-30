@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+  <loc>https://v1t4o.github.io/</loc>
+  <priority>1.0</priority>
+  <changefreq>daily</changefreq>
+  
+</url>
+
+  <url>
+  <loc>https://v1t4o.github.io/articles/resenha-entendendo-algoritmos-um-guia-ilustrado-para-programadores-e-outros-curiosos-aditya-y-bhargava.html</loc>
+  <priority>0.8</priority>
+  <changefreq>monthly</changefreq>
+  <lastmod>2025-07-04</lastmod>
+</url>
+
+  <url>
+  <loc>https://v1t4o.github.io/articles/resenha-programando-em-go-caio-filipini.html</loc>
+  <priority>0.8</priority>
+  <changefreq>monthly</changefreq>
+  <lastmod>2025-05-08</lastmod>
+</url>
+
+  <url>
+  <loc>https://v1t4o.github.io/articles/minha-experiencia-na-2-rinha-de-backend-com-ruby-sinatra.html</loc>
+  <priority>0.8</priority>
+  <changefreq>monthly</changefreq>
+  <lastmod>2024-02-27</lastmod>
+</url>
+
+  <url>
+  <loc>https://v1t4o.github.io/articles/usando-a-gem-foreman.html</loc>
+  <priority>0.8</priority>
+  <changefreq>monthly</changefreq>
+  <lastmod>2023-07-23</lastmod>
+</url>
+
+  <url>
+  <loc>https://v1t4o.github.io/articles/aplicacoes-ruby-on-rails-com-rabbitmq-uma-breve-discussao-sobre-monolitos-microsservicos-e-mensageria.html</loc>
+  <priority>0.8</priority>
+  <changefreq>monthly</changefreq>
+  <lastmod>2023-07-22</lastmod>
+</url>
+
+  <url>
+  <loc>https://v1t4o.github.io/articles/implementacao-do-flipper-para-controle-de-features.html</loc>
+  <priority>0.8</priority>
+  <changefreq>monthly</changefreq>
+  <lastmod>2023-06-02</lastmod>
+</url>
+
+  <url>
+  <loc>https://v1t4o.github.io/articles/usando-a-gem-httplog-para-uma-melhor-analise-dos-logs.html</loc>
+  <priority>0.8</priority>
+  <changefreq>monthly</changefreq>
+  <lastmod>2023-04-19</lastmod>
+</url>
+
+  <url>
+  <loc>https://v1t4o.github.io/articles/uso-do-portainer-para-administracao-de-conteineres-do-docker.html</loc>
+  <priority>0.8</priority>
+  <changefreq>monthly</changefreq>
+  <lastmod>2023-03-17</lastmod>
+</url>
+
+</urlset>
